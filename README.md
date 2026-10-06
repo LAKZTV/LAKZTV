@@ -62,8 +62,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LAKZTV&theme=tokyonight&hide_border=true" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LAKZTV&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph" />
-
 </div>
 
 <div align="center">
